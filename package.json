@@ -1,5 +1,5 @@
 {
-  "name": "draggable-polyfill",
+  "name": "@akrc/draggable-polyfill",
   "version": "1.2.4",
   "description": "🌈 a beautify polyfill for native drag! ",
   "main": "index.js",
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/XboxYan/draggable-polyfill/issues"
   },
-  "homepage": "https://github.com/XboxYan/draggable-polyfill#readme"
+  "homepage": "https://github.com/XboxYan/draggable-polyfill#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
